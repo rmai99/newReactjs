@@ -2,7 +2,7 @@
   "name": "web3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rmai99.github.io/reactjs-learn",
+  "homepage": "http://rmai99.github.io/newreactjs",
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
